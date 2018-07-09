@@ -259,6 +259,458 @@
         "date": 1531144328,
         "text": "Погода"
       }
+    },
+    {
+      "update_id": 381591500,
+      "message": {
+        "message_id": 53,
+        "from": {
+          "id": 592689889,
+          "is_bot": false,
+          "first_name": "Ildar",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 592689889,
+          "first_name": "Ildar",
+          "type": "private"
+        },
+        "date": 1531152873,
+        "text": "/weather",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 8,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 381591501,
+      "message": {
+        "message_id": 56,
+        "from": {
+          "id": 592689889,
+          "is_bot": false,
+          "first_name": "Ildar",
+          "language_code": "ru-RU"
+        },
+        "chat": {
+          "id": 592689889,
+          "first_name": "Ildar",
+          "type": "private"
+        },
+        "date": 1531152976,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 381591502,
+      "message": {
+        "message_id": 57,
+        "from": {
+          "id": 592689889,
+          "is_bot": false,
+          "first_name": "Ildar",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 592689889,
+          "first_name": "Ildar",
+          "type": "private"
+        },
+        "date": 1531153038,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 381591503,
+      "message": {
+        "message_id": 58,
+        "from": {
+          "id": 592689889,
+          "is_bot": false,
+          "first_name": "Ildar",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 592689889,
+          "first_name": "Ildar",
+          "type": "private"
+        },
+        "date": 1531153047,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 381591504,
+      "message": {
+        "message_id": 59,
+        "from": {
+          "id": 592689889,
+          "is_bot": false,
+          "first_name": "Ildar",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 592689889,
+          "first_name": "Ildar",
+          "type": "private"
+        },
+        "date": 1531153059,
+        "text": "/weather",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 8,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 381591505,
+      "message": {
+        "message_id": 63,
+        "from": {
+          "id": 592689889,
+          "is_bot": false,
+          "first_name": "Ildar",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 592689889,
+          "first_name": "Ildar",
+          "type": "private"
+        },
+        "date": 1531154273,
+        "text": "/weather",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 8,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 381591506,
+      "message": {
+        "message_id": 79,
+        "from": {
+          "id": 592689889,
+          "is_bot": false,
+          "first_name": "Ildar",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 592689889,
+          "first_name": "Ildar",
+          "type": "private"
+        },
+        "date": 1531156054,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 381591507,
+      "message": {
+        "message_id": 80,
+        "from": {
+          "id": 592689889,
+          "is_bot": false,
+          "first_name": "Ildar",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 592689889,
+          "first_name": "Ildar",
+          "type": "private"
+        },
+        "date": 1531156062,
+        "text": "/weather",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 8,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 381591508,
+      "message": {
+        "message_id": 85,
+        "from": {
+          "id": 592689889,
+          "is_bot": false,
+          "first_name": "Ildar",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 592689889,
+          "first_name": "Ildar",
+          "type": "private"
+        },
+        "date": 1531156559,
+        "text": "/weather",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 8,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 381591509,
+      "message": {
+        "message_id": 152,
+        "from": {
+          "id": 592689889,
+          "is_bot": false,
+          "first_name": "Ildar",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 592689889,
+          "first_name": "Ildar",
+          "type": "private"
+        },
+        "date": 1531158086,
+        "text": "/weather",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 8,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 381591510,
+      "message": {
+        "message_id": 157,
+        "from": {
+          "id": 592689889,
+          "is_bot": false,
+          "first_name": "Ildar",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 592689889,
+          "first_name": "Ildar",
+          "type": "private"
+        },
+        "date": 1531158092,
+        "text": "Coll"
+      }
+    },
+    {
+      "update_id": 381591511,
+      "message": {
+        "message_id": 162,
+        "from": {
+          "id": 592689889,
+          "is_bot": false,
+          "first_name": "Ildar",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 592689889,
+          "first_name": "Ildar",
+          "type": "private"
+        },
+        "date": 1531158097,
+        "text": "Gt"
+      }
+    },
+    {
+      "update_id": 381591512,
+      "message": {
+        "message_id": 167,
+        "from": {
+          "id": 592689889,
+          "is_bot": false,
+          "first_name": "Ildar",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 592689889,
+          "first_name": "Ildar",
+          "type": "private"
+        },
+        "date": 1531158146,
+        "text": "Rr"
+      }
+    },
+    {
+      "update_id": 381591513,
+      "message": {
+        "message_id": 168,
+        "from": {
+          "id": 592689889,
+          "is_bot": false,
+          "first_name": "Ildar",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 592689889,
+          "first_name": "Ildar",
+          "type": "private"
+        },
+        "date": 1531158149,
+        "text": "Ff"
+      }
+    },
+    {
+      "update_id": 381591514,
+      "message": {
+        "message_id": 169,
+        "from": {
+          "id": 592689889,
+          "is_bot": false,
+          "first_name": "Ildar",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 592689889,
+          "first_name": "Ildar",
+          "type": "private"
+        },
+        "date": 1531158151,
+        "text": "/weather",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 8,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 381591515,
+      "message": {
+        "message_id": 174,
+        "from": {
+          "id": 592689889,
+          "is_bot": false,
+          "first_name": "Ildar",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 592689889,
+          "first_name": "Ildar",
+          "type": "private"
+        },
+        "date": 1531158155,
+        "text": "Ffr"
+      }
+    },
+    {
+      "update_id": 381591516,
+      "message": {
+        "message_id": 175,
+        "from": {
+          "id": 592689889,
+          "is_bot": false,
+          "first_name": "Ildar",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 592689889,
+          "first_name": "Ildar",
+          "type": "private"
+        },
+        "date": 1531158158,
+        "text": "Rrr"
+      }
+    },
+    {
+      "update_id": 381591517,
+      "message": {
+        "message_id": 176,
+        "from": {
+          "id": 592689889,
+          "is_bot": false,
+          "first_name": "Ildar",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 592689889,
+          "first_name": "Ildar",
+          "type": "private"
+        },
+        "date": 1531158163,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 381591518,
+      "message": {
+        "message_id": 177,
+        "from": {
+          "id": 592689889,
+          "is_bot": false,
+          "first_name": "Ildar",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 592689889,
+          "first_name": "Ildar",
+          "type": "private"
+        },
+        "date": 1531158165,
+        "text": "/weather",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 8,
+            "type": "bot_command"
+          }
+        ]
+      }
     }
   ]
 }
