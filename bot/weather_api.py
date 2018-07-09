@@ -27,3 +27,4 @@ def extract_weather(city):
     weather = [city_name, city_country, round(temp, 2), humidity]
     return weather
 
+weather_save('London')
