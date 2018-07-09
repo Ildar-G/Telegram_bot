@@ -1,0 +1,87 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 381591488,
+      "message": {
+        "message_id": 1,
+        "from": {
+          "id": 592689889,
+          "is_bot": false,
+          "first_name": "Ildar"
+        },
+        "chat": {
+          "id": 592689889,
+          "first_name": "Ildar",
+          "type": "private"
+        },
+        "date": 1531076522,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 381591489,
+      "message": {
+        "message_id": 2,
+        "from": {
+          "id": 592689889,
+          "is_bot": false,
+          "first_name": "Ildar",
+          "language_code": "ru-RU"
+        },
+        "chat": {
+          "id": 592689889,
+          "first_name": "Ildar",
+          "type": "private"
+        },
+        "date": 1531076526,
+        "text": "hi"
+      }
+    },
+    {
+      "update_id": 381591490,
+      "message": {
+        "message_id": 3,
+        "from": {
+          "id": 592689889,
+          "is_bot": false,
+          "first_name": "Ildar",
+          "language_code": "ru-RU"
+        },
+        "chat": {
+          "id": 592689889,
+          "first_name": "Ildar",
+          "type": "private"
+        },
+        "date": 1531076562,
+        "text": "hi world"
+      }
+    },
+    {
+      "update_id": 381591491,
+      "message": {
+        "message_id": 4,
+        "from": {
+          "id": 592689889,
+          "is_bot": false,
+          "first_name": "Ildar",
+          "language_code": "ru-RU"
+        },
+        "chat": {
+          "id": 592689889,
+          "first_name": "Ildar",
+          "type": "private"
+        },
+        "date": 1531076649,
+        "text": "привет"
+      }
+    }
+  ]
+}
