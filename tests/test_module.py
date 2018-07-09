@@ -1,5 +1,5 @@
 import requests
-from Telebot import misc
+from telebot import misc
 import json
 
 

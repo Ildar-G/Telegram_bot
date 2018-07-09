@@ -3,6 +3,7 @@ import misc
 import json
 import weather_api
 from time import sleep
+
 key = misc.telegram_key
 URL = 'https://api.telegram.org/bot' + key + '/'
 
